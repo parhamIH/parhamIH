@@ -18,6 +18,6 @@ I have developed a full-stack application using Django ORM, JavaScript, HTML, an
 I'm eager to learn more about artificial intelligence, particularly in the field of music. If you share similar interests or have exciting projects to collaborate on, feel free to reach out!
 
 ## 📫 Connect with me
-[LinkedIn](www.linkedin.com/in/parham-ilaghi) | [Email](parham.ilaghi@gmail.com)
+[LinkedIn](www.linkedin.com/in/parham-ilaghi) | [Email](parham.ilaghi@gmail.com) | [telegram](https://t.me/parhameee) | [instagram](https://www.instagram.com/prv.parham/) 
 
 Thanks for visiting my profile !!
