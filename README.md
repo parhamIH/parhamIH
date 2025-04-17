@@ -5,29 +5,29 @@ I'm a Computer Science student at Islamic Azad University in Iran, passionate ab
 ## 🔧 Technologies & Tools
 
 - **Languages:**
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="20" height="20"/> Python
-  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="20" height="20"/> JavaScript
-  <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="20" height="20"/> HTML
-  <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="20" height="20"/> CSS
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS
 
 - **Frameworks:**
-  <img src="https://simpleicons.org/icons/django.svg" alt="Django" width="20" height="20"/> Django
-  <img src="https://simpleicons.org/icons/djangorestframework.svg" alt="Django Rest Framework" width="20" height="20"/> Django Rest Framework (DRF)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="20" height="20"/> Django
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorestframework/djangorestframework-original.svg" alt="Django Rest Framework" width="20" height="20"/> Django Rest Framework (DRF)
 
 - **Database:**
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="20" height="20"/> MySQL
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
 
 - **APIs:**
   🌐 REST API integration
 
 - **Data Science:**
-  <img src="https://simpleicons.org/icons/numpy.svg" alt="NumPy" width="20" height="20"/> NumPy
-  <img src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" width="20" height="20"/> Pandas
-  <img src="https://simpleicons.org/icons/matplotlib.svg" alt="Matplotlib" width="20" height="20"/> Matplotlib
-  <img src="https://simpleicons.org/icons/sympy.svg" alt="SymPy" width="20" height="20"/> SymPy
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="20" height="20"/> NumPy
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="20" height="20"/> Pandas
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="20" height="20"/> Matplotlib
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sympy/sympy-original.svg" alt="SymPy" width="20" height="20"/> SymPy
 
 - **Containerization:**
-  <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="20" height="20"/> Docker
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker
 
 - **Networking:**
   🌐 CCNA certified
