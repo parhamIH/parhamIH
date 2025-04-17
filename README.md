@@ -11,8 +11,8 @@ I'm a Computer Science student at Islamic Azad University in Iran, passionate ab
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS
 
 - **Frameworks:**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="20" height="20"/> Django
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorestframework/djangorestframework-original.svg" alt="Django Rest Framework" width="20" height="20"/> Django Rest Framework (DRF)
+   Django
+   Django Rest Framework (DRF)
 
 - **Database:**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
@@ -24,7 +24,7 @@ I'm a Computer Science student at Islamic Azad University in Iran, passionate ab
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="20" height="20"/> NumPy
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="20" height="20"/> Pandas
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="20" height="20"/> Matplotlib
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sympy/sympy-original.svg" alt="SymPy" width="20" height="20"/> SymPy
+  SymPy
 
 - **Containerization:**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker
