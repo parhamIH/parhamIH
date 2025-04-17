@@ -1,36 +1,36 @@
-# Hi there,  I'm Parham Ilaghi! 👋
+# Hi there, I'm Parham Ilaghi! 👋
 
-I'm a Computer Science student at Islamic Azad University->(aiu) in Iran, passionate about technology and programming.
+I'm a Computer Science student at Islamic Azad University (AIU) in Iran, passionate about technology and programming.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:**
-  -<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
-  -<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
-  -<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML
-  -<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS
 
 - **Frameworks:**
-   -Django
-   -Django Rest Framework (DRF)
+  - Django
+  - Django Rest Framework (DRF)
 
 - **Database:**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
 
 - **APIs:**
-  🌐 REST API integration
+  - 🌐 REST API integration
 
 - **Data Science:**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="20" height="20"/> NumPy
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="20" height="20"/> Pandas
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="20" height="20"/> Matplotlib
-  SymPy
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="20" height="20"/> NumPy
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="20" height="20"/> Pandas
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="20" height="20"/> Matplotlib
+  - SymPy
 
 - **Containerization:**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker
 
 - **Networking:**
-  🌐 CCNA certified
+  - 🌐 CCNA certified
 
 ## 🌟 Projects
 I have developed a full-stack application using Django ORM, JavaScript, HTML, and CSS. I'm always looking to take on new challenges and improve my skills.
