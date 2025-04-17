@@ -6,7 +6,6 @@ I'm a Computer Science student at Islamic Azad University->(aiu) in Iran, passio
 
 - **Languages:**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-original.svg" alt="Python" width="20" height="20"/> C
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/> CSS
