@@ -1,6 +1,6 @@
 # Hi there, I'm Parham Ilaghi! 👋
 
-I'm a Computer Science student at Islamic Azad University in Iran, passionate about technology and programming.
+I'm a Computer Science student at Islamic Azad University->(aiu) in Iran, passionate about technology and programming.
 
 ## 🔧 Technologies & Tools
 
