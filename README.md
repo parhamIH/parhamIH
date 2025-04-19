@@ -13,15 +13,20 @@ I’m deeply passionate about technology, especially backend development with Dj
 
 **Languages:**
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" height="24" alt="Python" /> Python  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" /> JavaScript  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" height="24" alt="HTML5" /> HTML  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" height="24" alt="CSS3" /> CSS  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /> Python  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /> JavaScript  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /> HTML  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /> CSS  
 </p>
 
 **Frameworks:**
-- Django
-- Django REST Framework (DRF)
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg"  width="24" height="24" alt="DRF">
+ Django and Django REST Framework (DRF)
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="24" height="24" alt="Bootstrap" /> Bootstrap  
+</p>
 
 **Databases:**
 <p>
@@ -92,10 +97,10 @@ I'm especially interested in the intersection of **artificial intelligence** and
 - 🐍 پایتون (Python)
 - ✨ جاوااسکریپت (JavaScript)
 - 🌐 HTML و CSS
-
+- 
 **فریم‌ورک‌ها:**
-- Django  
-- Django REST Framework
+- Django  - جنگو
+- Django REST Framework - جنگو رست فریم ورک
 
 **دیتابیس:**
 - MySQL
