@@ -19,7 +19,7 @@ I’m deeply passionate about technology, especially backend development with Dj
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /> CSS  
 </p>
 
-**Version Control System : **
+**Version Control System :**
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" />  GIT
 </p>
