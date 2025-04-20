@@ -11,7 +11,7 @@ I’m deeply passionate about technology, especially backend development with Dj
 
 ## 💻 Tech Stack & Skills
 
-**Languages:**
+**Languages :**
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /> Python  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /> JavaScript  
@@ -19,7 +19,12 @@ I’m deeply passionate about technology, especially backend development with Dj
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /> CSS  
 </p>
 
-**Frameworks:**
+**Version Control System : **
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" />  GIT
+</p>
+
+**Frameworks :**
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg"  width="24" height="24" alt="DRF">
  Django and Django REST Framework (DRF)
@@ -28,15 +33,15 @@ I’m deeply passionate about technology, especially backend development with Dj
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="24" height="24" alt="Bootstrap" /> Bootstrap  
 </p>
 
-**Databases:**
+**Databases :**
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL" /> MySQL
 </p>
 
-**APIs:**
+**APIs :**
 - REST API Integration
 
-**Data Science & Math:**
+**Data Science & Math :**
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="24" height="24" alt="NumPy" /> NumPy  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="24" height="24" alt="Pandas" /> Pandas  
@@ -44,14 +49,13 @@ I’m deeply passionate about technology, especially backend development with Dj
 🧮 SymPy
 </p>
 
-**Containerization:**
+**Containerization :**
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" height="24" alt="Docker" /> Docker  
 </p>
 
-**Networking:**
+**Networking :**
 - 🌐 CCNA Certified
-
 ---
 
 ## 🚀 Projects & Experience
@@ -97,8 +101,9 @@ I'm especially interested in the intersection of **artificial intelligence** and
 - 🐍 پایتون (Python)
 - ✨ جاوااسکریپت (JavaScript)
 - 🌐 HTML و CSS
-- 
-**فریم‌ورک‌ها:**
+
+
+فریم‌ورک‌ها:**
 - Django  - جنگو
 - Django REST Framework - جنگو رست فریم ورک
 
