@@ -37,7 +37,9 @@ I’m deeply passionate about technology, especially backend development with Dj
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL" /> MySQL
 </p>
-
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/PostgreSQL/PostgreSQL-original.svg" width="24" height="24" alt="PostgreSQL" /> PostgreSQL
+</p>
 **APIs :**
 - REST API Integration
 
