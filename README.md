@@ -21,7 +21,8 @@ I’m deeply passionate about technology, especially backend development with Dj
 
 **Version Control System :**
 <p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" />  GIT
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" />  GIT<br>Git flow </br>
+
 </p>
 
 **Frameworks :**
