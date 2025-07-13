@@ -1,7 +1,7 @@
 
 # Hi there, I'm Parham Ilaghi! 👋
 ---
-
+XhG3,vwR*;2!wd;
 🎓 **Computer Science Student @ Islamic Azad University (AIU), Iran**  
 💡 Tech Enthusiast | Aspiring Backend Developer | Passionate About AI & Music
 
