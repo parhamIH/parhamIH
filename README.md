@@ -27,7 +27,7 @@ I’m deeply passionate about technology, especially backend development with Dj
 **Frameworks :**
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg"  width="24" height="24" alt="DRF">
- Django and Django REST Framework (DRF)
+ Django 
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="24" height="24" alt="Bootstrap" /> Bootstrap  
@@ -41,7 +41,7 @@ I’m deeply passionate about technology, especially backend development with Dj
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"  width="24" height="24" alt="PostgreSQL" /> PostgreSQL
 </p>
 **APIs :**
-- REST API Integration
+- REST API Integration ---  Django REST Framework (DRF)
 
 **Data Science & Math :**
 <p>
