@@ -71,11 +71,15 @@ I enjoy solving complex problems and turning ideas into real, usable application
 I'm especially interested in the intersection of **artificial intelligence** and **music**, and how code can enhance creative expression.
 
 ---
-## 🔎 Researchs
+## 🔎 Researchs - * farsi  🇮🇷 *
 
 [<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> AI and Music 🎵🎸🎛️ -- persian language ](https://docs.google.com/document/d/15g445sRJpFrnkWPrL-ER4lQTA4A6ckPolaAHJHBcnYI/edit?usp=sharing)
 
-[<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> intor backend  ](https://docs.google.com/document/d/1Kd8A0EKO_ejNZ0QgHkJPzr2vQeaIKorLOIX_Bkr9pS0/edit?usp=sharing)
+[<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> intor backend🧠  ](https://docs.google.com/document/d/1Kd8A0EKO_ejNZ0QgHkJPzr2vQeaIKorLOIX_Bkr9pS0/edit?usp=sharing)
+
+[<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> Docker 🐋](https://docs.google.com/document/d/1PEDqE_gTwEllOiWG5hUkDmgIcFkkQfxUa42jOhFIm4Y/edit?usp=sharing)
+
+[<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> Redis 🧩](https://docs.google.com/document/d/1Z4SPeO4_YA_Owswoytf30PhlMIc_OnflglpVB6rQFSI/edit?usp=sharing)
 
 ---
 ## 📫 Connect With Me
