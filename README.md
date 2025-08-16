@@ -81,6 +81,8 @@ I'm especially interested in the intersection of **artificial intelligence** and
 
 [<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> Redis 🧩](https://docs.google.com/document/d/1Z4SPeO4_YA_Owswoytf30PhlMIc_OnflglpVB6rQFSI/edit?usp=sharing)
 
+[<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> Agile Design System ⌚](https://docs.google.com/document/d/1iZ78Il7Q0Om6SGLPGSCtNPUtifAMo0LolLhao9yZ6vU/edit?usp=sharing)
+
 ---
 ## 📫 Connect With Me
 
