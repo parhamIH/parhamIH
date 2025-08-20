@@ -6,6 +6,15 @@
 
 I’m deeply passionate about technology, especially backend development with Django and Python. I’ve built full-stack apps, explored data science tools, and I'm continuously learning new technologies to sharpen my skills. I love creative projects, especially those involving music and artificial intelligence.
 
+
+---
+## 📄 CV  
+
+<a href="https://drive.google.com/file/d/1HPGPk2yKmUdy0nMEaj7Z4ngHZt1pxDND/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/View%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+
+
 ---
 
 ## 💻 Tech Stack & Skills
