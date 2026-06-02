@@ -10,10 +10,9 @@ I’m deeply passionate about technology, especially backend development with Dj
 ---
 ## 📄 CV  
 
-<a href="https://drive.google.com/file/d/1HPGPk2yKmUdy0nMEaj7Z4ngHZt1pxDND/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1ha4mUX0wt6SPpVUws1QZq5LbsERLrY1b/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/View%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
-
 
 ---
 
@@ -23,13 +22,11 @@ I’m deeply passionate about technology, especially backend development with Dj
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /> Python  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /> JavaScript  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /> HTML  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /> CSS  
 </p>
 
 **Version Control System :**
 <p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" />  GIT<br>Git flow </br>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" />  GIT
 
 </p>
 
@@ -37,6 +34,10 @@ I’m deeply passionate about technology, especially backend development with Dj
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg"  width="24" height="24" alt="DRF">
  Django 
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24" alt="Bootstrap" /> 
+React JS 
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="24" height="24" alt="Bootstrap" /> Bootstrap  
@@ -49,8 +50,15 @@ I’m deeply passionate about technology, especially backend development with Dj
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"  width="24" height="24" alt="PostgreSQL" /> PostgreSQL
 </p>
-**APIs :**
-- REST API Integration ---  Django REST Framework (DRF)
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="24" height="24" alt="MS SQL" /> MS SQL
+</p>
+
+**Caching & Messaging :**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="24" height="24" alt="Redis" /> Redis  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="24" height="24" alt="RabbitMQ" /> RabbitMQ
+</p>
 
 **Data Science & Math :**
 <p>
@@ -60,6 +68,11 @@ I’m deeply passionate about technology, especially backend development with Dj
 🧮 SymPy
 </p>
 
+**Operating System :**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24" height="24" alt="Linux" /> Linux  
+</p>
+
 **Containerization :**
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="24" height="24" alt="Docker" /> Docker  
@@ -67,13 +80,6 @@ I’m deeply passionate about technology, especially backend development with Dj
 
 **Networking :**
 - 🌐 CCNA Certified
----
-
-## 🚀 Projects & Experience
-I’ve developed a complete **full-stack Django app** integrating Django ORM, REST API, JavaScript, HTML, and CSS.  
-I enjoy solving complex problems and turning ideas into real, usable applications.
-
----
 
 ## 🎯 Current Interests
 
