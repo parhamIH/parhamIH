@@ -1,18 +1,24 @@
-
 # Hi there, I'm Parham Ilaghi! 👋
+
 ---
+
 🎓 **Computer Science Student @ Islamic Azad University (AIU), Iran**  
 💡 Tech Enthusiast | Aspiring Backend Developer | Passionate About AI & Music
 
 I’m deeply passionate about technology, especially backend development with Django and Python. I’ve built full-stack apps, explored data science tools, and I'm continuously learning new technologies to sharpen my skills. I love creative projects, especially those involving music and artificial intelligence.
 
-
 ---
-## 📄 CV  
 
-<a href="https://drive.google.com/file/d/1ha4mUX0wt6SPpVUws1QZq5LbsERLrY1b/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/View%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
-</a>
+## 🚀 Quick Links
+
+<div align="center">
+  <a href="https://parhamih.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-🌐-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1ha4mUX0wt6SPpVUws1QZq5LbsERLrY1b/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -26,18 +32,15 @@ I’m deeply passionate about technology, especially backend development with Dj
 
 **Version Control System :**
 <p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" />  GIT
-
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="26" height="26" alt="Git" /> GIT
 </p>
 
 **Frameworks :**
 <p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg"  width="24" height="24" alt="DRF">
- Django 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg"  width="24" height="24" alt="Django"> Django 
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24" alt="Bootstrap" /> 
-React JS 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24" alt="React JS" /> React JS 
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="24" height="24" alt="Bootstrap" /> Bootstrap  
@@ -81,16 +84,19 @@ React JS
 **Networking :**
 - 🌐 CCNA Certified
 
+---
+
 ## 🎯 Current Interests
 
 I'm especially interested in the intersection of **artificial intelligence** and **music**, and how code can enhance creative expression.
 
 ---
-## 🔎 Researchs - * farsi  🇮🇷 *
+
+## 🔎 Researchs - * farsi 🇮🇷 *
 
 [<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> AI and Music 🎵🎸🎛️ -- persian language ](https://docs.google.com/document/d/15g445sRJpFrnkWPrL-ER4lQTA4A6ckPolaAHJHBcnYI/edit?usp=sharing)
 
-[<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> intor backend🧠  ](https://docs.google.com/document/d/1Kd8A0EKO_ejNZ0QgHkJPzr2vQeaIKorLOIX_Bkr9pS0/edit?usp=sharing)
+[<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> intor backend🧠 ](https://docs.google.com/document/d/1Kd8A0EKO_ejNZ0QgHkJPzr2vQeaIKorLOIX_Bkr9pS0/edit?usp=sharing)
 
 [<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> Docker 🐋](https://docs.google.com/document/d/1PEDqE_gTwEllOiWG5hUkDmgIcFkkQfxUa42jOhFIm4Y/edit?usp=sharing)
 
@@ -99,6 +105,7 @@ I'm especially interested in the intersection of **artificial intelligence** and
 [<img src="https://img.icons8.com/color/48/google-docs.png" width="24"/> Agile Design System ⌚](https://docs.google.com/document/d/1iZ78Il7Q0Om6SGLPGSCtNPUtifAMo0LolLhao9yZ6vU/edit?usp=sharing)
 
 ---
+
 ## 📫 Connect With Me
 
 [<img src="https://img.icons8.com/color/48/linkedin.png" width="24"/> LinkedIn](https://www.linkedin.com/in/parham-ilaghi)  
@@ -108,8 +115,4 @@ I'm especially interested in the intersection of **artificial intelligence** and
 
 ---
 
-✨ Thanks for stopping by! Let's build something awesome together . ✨ 
-
-
-
-
+✨ Thanks for stopping by! Let's build something awesome together . ✨
